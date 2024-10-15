@@ -1,6 +1,6 @@
 ### Hi there, I'm QiBin Li
 
-- 💬 More about me ([resume](https://auravan.github.io), latest update 2024/10)
+- 💬 More about me ([resume](https://auravan.github.io/cn/resume/), latest update 2024/10)
 
 <div align="center">
     <p>
